@@ -1,4 +1,5 @@
 /*
+Hacker Rank question: https://www.hackerrank.com/challenges/weather-observation-station-20/problem
 Enter your query here.
 */
 
